@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RazzMcDazz
 - 👀 I’m interested in 3D printing, Z80 coding (assembly language) for the ZX Spectrum/Next, electronics
-- 🌱 I’m currently learning Z80 assembly
+- 🌱 I’m currently learning Z80 assembly and C
 
 
 <!---
